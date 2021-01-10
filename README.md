@@ -70,3 +70,6 @@ Simulator performs following operations
 - Makes the users subscribe(follow) to other users in a - Zipf distribution. The skew
 parameter is configurable in the code.
 - Creates and sends random tweets like: “i like coffee #coffelovers @user12 @user9”
+
+
+This project was created as part of the course Distributed Operating Systems Principles at the University of Florida. under [Prof. Alin Dobra](https://www.cise.ufl.edu/dobra-alin/)
